@@ -8,3 +8,5 @@ A free and open-source operating system for various devices, based on the Androi
 </tr>
 </table>
 
+Unofficial
+
